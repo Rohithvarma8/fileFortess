@@ -1,0 +1,4 @@
+complie des algorithm.
+to take input from a file by creating a pop-up dialog to select a file from system.
+find the max length of key that is being accepted.
+include the parameter finding code.
